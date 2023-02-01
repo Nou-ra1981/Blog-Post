@@ -6,7 +6,7 @@
   /* font-weight: normal; */
   /* letter-spacing: normal; */
   transition: .3s;
-}Artificial intelligence and medical practitioners hand in hand 
+Artificial intelligence and medical practitioners hand in hand }
 
 Blog Post written by Noura Eltahawi.
 
