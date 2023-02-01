@@ -1,4 +1,4 @@
-##  Artificial intelligence and medical practitioners hand in hand{
+{ Artificial intelligence and medical practitioners hand in hand 
   color: #F28EFF;
   /* font-family: 'Lato', sans-serif; */
   /* font-size: 6rem; */
