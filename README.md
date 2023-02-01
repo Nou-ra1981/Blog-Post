@@ -1,11 +1,11 @@
-##  Artificial intelligence and medical practitioners hand in hand  {
+##  Artificial intelligence and medical practitioners hand in hand{
   color: #F28EFF;
   /* font-family: 'Lato', sans-serif; */
   /* font-size: 6rem; */
   /* font-style: normal; */
   /* font-weight: normal; */
   /* letter-spacing: normal; */
-  transition: .3s; }
+  transition: .3s;}
 
 Blog Post written by Noura Eltahawi.
 
