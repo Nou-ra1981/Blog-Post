@@ -1,4 +1,12 @@
-##  Artificial intelligence and medical practitioners hand in hand 
+##  .first-page__main-heading--unique {
+  color: #F28EFF;
+  /* font-family: 'Lato', sans-serif; */
+  /* font-size: 6rem; */
+  /* font-style: normal; */
+  /* font-weight: normal; */
+  /* letter-spacing: normal; */
+  transition: .3s;
+}Artificial intelligence and medical practitioners hand in hand 
 
 Blog Post written by Noura Eltahawi.
 
