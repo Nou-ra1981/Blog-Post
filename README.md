@@ -7,7 +7,7 @@
 Artificial intelligence is currently occupying a huge part of our lives, from auto-driving cars and auto pilot in planes to virtual assistants in devices and smart homes. Correspondingly, AI is currently on its way to conquer a big part of medical/patient care institutions like hospitals and clinics. According to Statista “In 2021, 42 percent of healthcare organizations in the European Union were currently using AI technologies for disease diagnosis, while a further 19 percent had plans to employ this technology within in the next three years.”
 ![image](https://user-images.githubusercontent.com/119850601/216193146-39eb7d65-cb53-4526-bb42-209759842943.png) 
 
-Picture from https://www.statista.com/statistics/1312566/adoption-stage-of-ai-in-healthcare-in-the-eu/
+<sub> Picture from https://www.statista.com/statistics/1312566/adoption-stage-of-ai-in-healthcare-in-the-eu/
 
 ## *Improved patient diagnosis with the aid of AI*
 
