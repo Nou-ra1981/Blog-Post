@@ -19,7 +19,7 @@ The concept of using AI and robots in surgeries is not new, intelligent robots h
 
 ![image](https://user-images.githubusercontent.com/119850601/216193480-ff5f470f-0906-4e58-a099-9921c353570b.png) PUMA 560 (first surgical robot used)
 
-Picture from: https://www.researchgate.net/figure/PUMA-560-robot-in-the-experiment_fig5_244991904
+<sub> Picture from: https://www.researchgate.net/figure/PUMA-560-robot-in-the-experiment_fig5_244991904
 
 ## *Management of medical records and paperwork* 
 
