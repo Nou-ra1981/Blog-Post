@@ -40,10 +40,17 @@ By listing many of the advantages of embedding AI into the healthcare system- al
 
 ## *Resources* 
 https://sma.org/ai-in-medical-diagnosis/
-https://www.statista.com/statistics/1312566/adoption-stage-of-ai-in-healthcare-in-the-eu/
-https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/?sh=b8e803647e5a
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9093628/
-https://www.philips.com/a-w/about/news/archive/features/2022/20221124-10-real-world-examples-of-ai-in-healthcare.html
-https://www.forbes.com/sites/brucelee/2016/09/07/doctors-wasting-over-two-thirds-of-their-time-doing-paperwork/?sh=463dcbab5d7b
-https://4basecare.com/artificial-intelligence-in-medical-record-management/
-https://www.sciencedirect.com/science/article/pii/S1098301521017411
+
+  https://www.statista.com/statistics/1312566/adoption-stage-of-ai-in-healthcare-in-the-eu/
+
+  https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/?sh=b8e803647e5a
+
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9093628/
+
+  https://www.philips.com/a-w/about/news/archive/features/2022/20221124-10-real-world-examples-of-ai-in-healthcare.html
+
+  https://www.forbes.com/sites/brucelee/2016/09/07/doctors-wasting-over-two-thirds-of-their-time-doing-paperwork/?sh=463dcbab5d7b
+
+  https://4basecare.com/artificial-intelligence-in-medical-record-management/
+
+  https://www.sciencedirect.com/science/article/pii/S1098301521017411
